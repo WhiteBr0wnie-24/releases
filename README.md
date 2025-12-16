@@ -1,3 +1,3 @@
 # Nerdhut Public Releases
 
-* Nerdhut Article Manager – Last Release: 2025-11-28 17:44
+* Nerdhut Article Manager – Last Release: 2025-12-16 06:55
